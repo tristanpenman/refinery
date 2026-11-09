@@ -84,8 +84,8 @@ GEM
     aws-sdk-bedrock (1.100.0)
       aws-sdk-core (~> 3, >= 3.263.0)
       aws-sigv4 (~> 1.5)
-    aws-sdk-bedrockruntime (1.90.0)
-      aws-sdk-core (~> 3, >= 3.263.0)
+    aws-sdk-bedrockruntime (1.91.0)
+      aws-sdk-core (~> 3, >= 3.264.0)
       aws-sigv4 (~> 1.5)
     aws-sdk-core (3.265.0)
       aws-eventstream (~> 1, >= 1.4.1)
@@ -369,7 +369,7 @@ PLATFORMS
 DEPENDENCIES
   annotaterb (~> 4.26)
   aws-sdk-bedrock (~> 1.100)
-  aws-sdk-bedrockruntime (~> 1.90)
+  aws-sdk-bedrockruntime (~> 1.91)
   bootsnap
   brakeman
   bundler-audit
