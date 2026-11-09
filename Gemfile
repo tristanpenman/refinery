@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "rails", "~> 8.1.4", ">= 8.1.4.1"
 # Bedrock Converse generation (including native JSON schema) and model discovery
 gem "aws-sdk-bedrockruntime", "~> 1.90"
-gem "aws-sdk-bedrock", "~> 1.100"
+gem "aws-sdk-bedrock", "~> 1.101"
 # Render model responses written in Markdown
 gem "commonmarker", "~> 2.10"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
